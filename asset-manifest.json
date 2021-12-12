@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/natashasehgal.github.io/static/js/main.2c85ebdf.chunk.js",
-    "main.js.map": "/natashasehgal.github.io/static/js/main.2c85ebdf.chunk.js.map",
-    "runtime-main.js": "/natashasehgal.github.io/static/js/runtime-main.1cc86d06.js",
-    "runtime-main.js.map": "/natashasehgal.github.io/static/js/runtime-main.1cc86d06.js.map",
-    "static/js/2.8277da87.chunk.js": "/natashasehgal.github.io/static/js/2.8277da87.chunk.js",
-    "static/js/2.8277da87.chunk.js.map": "/natashasehgal.github.io/static/js/2.8277da87.chunk.js.map",
-    "index.html": "/natashasehgal.github.io/index.html",
-    "static/js/2.8277da87.chunk.js.LICENSE.txt": "/natashasehgal.github.io/static/js/2.8277da87.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.2c85ebdf.chunk.js",
+    "main.js.map": "/static/js/main.2c85ebdf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8ee523b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8ee523b7.js.map",
+    "static/js/2.0f778e14.chunk.js": "/static/js/2.0f778e14.chunk.js",
+    "static/js/2.0f778e14.chunk.js.map": "/static/js/2.0f778e14.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.0f778e14.chunk.js.LICENSE.txt": "/static/js/2.0f778e14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cc86d06.js",
-    "static/js/2.8277da87.chunk.js",
+    "static/js/runtime-main.8ee523b7.js",
+    "static/js/2.0f778e14.chunk.js",
     "static/js/main.2c85ebdf.chunk.js"
   ]
 }
